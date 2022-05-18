@@ -1,4 +1,7 @@
 <?php
+include("header.html");
+?>
+<?php
 
 include("dbConnect.php");
 
